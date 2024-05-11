@@ -60,7 +60,7 @@ let cornerwithtype :Point={
     y:0
 }
 const point:Point={x:10,y:7};
-point.x=123;
+point.x=124;
 
 function sum(...values:number[]){
 return values.reduce((previous,current)=>{
