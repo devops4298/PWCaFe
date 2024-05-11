@@ -94,6 +94,7 @@ console.log(anyexmp);
 //type assertion
 
 //type casting
+
 let nu=100;
 let numb=+nu;// saying that my nu type will be integer/number always
 
